@@ -7,7 +7,7 @@ Skills: Javascript / ReactJS / SOLIDITY / NODE.JS / MERN
 - 🔭 I’m currently working on fullstack MERN applications
 - 🌱 I’m currently learning MERN and Blockchain
 <!--
-
+Take badges links from here : https://github.com/Envoy-VC/awesome-badges#-skills
 Here are some ideas to get you started:
 
 
