@@ -3,15 +3,27 @@
 
 Skills: Javascript / ReactJS / SOLIDITY / NODE.JS / MERN
 
+
 - 🔭 I’m currently working on fullstack MERN applications
 - 🌱 I’m currently learning MERN and Blockchain
 <!--
-**ahmadrazach/ahmadrazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning
+(blockchain, solidity, MBA)
+I Build with
+PROGRAMMING : Javscript, Python, C++, C#
+
+FRONTEND : Javascript,Bootstrap, ReactJS, Material UI
+
+BACKEND : NodeJs, Express, Ionic, .NET
+
+DATABASE : SQL ( MySQL ), NoSQL ( Firebase, MonogoDB)
+
+Find me elsewhere
+email,linkedin,phone no, whatsapp
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+
+
