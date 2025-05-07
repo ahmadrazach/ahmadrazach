@@ -1,21 +1,11 @@
 # 💫 About Me:
-- ⚡ FullStack Software Engineer
-- 🔭 I’m currently working on fullstack MERN applications
-- 🌱 I’m currently learning MERN and Blockchain
-- 👯 I’m looking to collaborate on problem solving projects locally or internationally
+- ⚡ FullStack Software Engineer & Co-Founder
+- 🔭 Currently leading the development of scalable SaaS solutions, fintech applications, AI-driven automation, and blockchain integrations
+- 👯 I have built high-performance applications across diverse industries, including CRM systems, e-commerce platforms, fintech analytics, and healthcare solutions.
+- 🚀 Let’s connect to discuss technology, innovation, and business growth!
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ahmedraza.netlify.app/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmadrazach26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrazach) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmadrazach26) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AhmedRa93015817) 
-
-## I Develop with
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmadrazach&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazach&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![wakatime](https://wakatime.com/badge/user/1798938d-9e92-46e0-9044-cc5ba65970a4.svg)](https://wakatime.com/@1798938d-9e92-46e0-9044-cc5ba65970a4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="300px"/>
 
 ## Contact
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/MMRN3UN72FGGI1)
