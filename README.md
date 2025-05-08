@@ -11,6 +11,8 @@
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/MMRN3UN72FGGI1)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadrazach26@gmail.com)
 
+ <iframe src="https://docs.google.com/document/d/e/2PACX-1vSvuvv1nOOzBrHJSqSq__5WZMjFFBCucWzo7zxKWgJ5sarzfGE2bUwmLCqObImm8T0DdeFrIxpNrTDc/pub?embedded=true"></iframe>
+
 <!--
 Skills: Javascript / ReactJS / SOLIDITY / NODE.JS / MERN
 
